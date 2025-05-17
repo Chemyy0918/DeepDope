@@ -1,2 +1,2 @@
-# TMDCs_Predictor
-用于预测TMDCs能带结构的机器学习项目
+# DeepDope
+用于研究掺杂材料的深度学习架构
